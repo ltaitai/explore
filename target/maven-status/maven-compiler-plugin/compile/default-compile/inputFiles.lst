@@ -1,0 +1,17 @@
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/repository/UserRepository.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/configuration/AppConfig.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/model/Role.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/exceptions/DuplicatesException.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/controller/KafkaListnerController.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/controller/LoginController.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/ExploreApplication.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/controller/KafkaPublisherController.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/utils/KafkaProducer.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/controller/RoleController.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/utils/Decrypt.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/model/User.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/configuration/KafkaConsumerConfig.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/configuration/KafkaProducerConfig.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/repository/RoleRepository.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/controller/UserController.java
+/Users/luthando/Documents/share/explore/src/main/java/com/explore/go/utils/Encrypt.java
